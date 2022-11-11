@@ -1,0 +1,7 @@
+# Project exclude paths
+/async/target/
+/mybatis_plus/target/
+/restTemplate/target/
+/slf4j/target/
+/swagger/target/
+/xuwenbiao/target/
